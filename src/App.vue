@@ -24,7 +24,7 @@
           v-bind:key="quote.id"
         >
           <div class="card">
-            <div class="card-header"><img src="" alt="" /></div>
+            <div class="card-header"><img src="./assets/swanson2.PNG" alt="" /></div>
             <div class="card-content">
               <h3 class="title is-size-4">{{ quote }}</h3>
               <button class="button is-success is-rounded is-small">
